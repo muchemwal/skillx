@@ -2,7 +2,7 @@
 
 ![Alt text](images/Skillxafricalabs.PNG?raw=true "ToC")
 
-![Alt text]("images/ml canvas explained.PNG"?raw=true "MLC Explained")
+![Alt text](images/ml canvas explained.PNG?raw=true "MLC Explained")
 
 ![Alt text](images/completed_mlc.PNG?raw=true "MLC Completed")
 
