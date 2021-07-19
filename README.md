@@ -6,7 +6,7 @@
 
 
 ## Definitions and history 
-![Alt text](images/fomulae.PNG?raw=true "ToC")
+![Alt text](images/fomulae.PNG?raw=true "Def")
 
 ## Explained Machine Learning Canvas
 
