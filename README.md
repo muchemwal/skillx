@@ -4,6 +4,10 @@
 ## Lab 
 ![Alt text](images/Skillxafricalabs.PNG?raw=true "ToC")
 
+
+## Definitions and history 
+![Alt text](images/fomulae.PNG?raw=true "ToC")
+
 ## Explained Machine Learning Canvas
 
 ![Alt text](images/mlc_explained.PNG?raw=true "MLC Explained")
